@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SolarFlurry
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to code in C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Roblox & Scratch
 - 📫 How to reach me ...
 
 <!---
