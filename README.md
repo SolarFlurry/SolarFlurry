@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SolarFlurry
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning to code in C++ and Java
+- 👀 I’m interested in coding and art
+- 🌱 I’m currently learning to program in C++ and Java
 - 💞️ I’m looking to collaborate on Scratch, Roblox & Discord
 - 📫 My scratch account is @SolarFlurry
 
