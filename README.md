@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and art
 - 🌱 I’m currently learning to program in C++ and Java
 - 💞️ I’m looking to collaborate on Scratch, Roblox & Discord
-- 📫 My scratch account is @SolarFlurry
+- 📫 This is my GitHub account 😅
 
 <!---
 SolarFlurry/SolarFlurry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
