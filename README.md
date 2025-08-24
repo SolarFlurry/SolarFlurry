@@ -1,8 +1,28 @@
-- 👋 Hi, I’m @SolarFlurry
-- 👀 I’m interested in coding and art
-- 🌱 I’m currently learning to create C++ Applications
-- 💞️ I’m looking to collaborate on Scratch, Roblox & Discord
-- 📫 This is my GitHub account 😅
+# Hello!
+<h1 align="center">I'm Solarflurry, a hobbyist programmer</h1>
+
+## Skills
+### 🚀 Programming Languages
+- C++ 
+- Java
+- TypeScript
+### 📱 Web Development
+- **Core**: UI/UX design - HTML, CSS, JavaScript
+- **Backend development**: NodeJS - TypeScript, JavaScript
+### ⚙️ Software Engineering
+- User Applications - Java, C++
+- Systems level programming - C++, Rust
+### 🛠️ Tools and Workflow
+- Git / GitHub
+- VSCode
+## ⚽️ Hobbies
+I enjoy:
+- Programming 💻
+- Solving problems 📊
+- Drawing ✏️
+- Origami 📄
+- Cycling 🚲
+
 
 <!---
 SolarFlurry/SolarFlurry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
