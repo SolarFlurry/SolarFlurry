@@ -6,12 +6,13 @@
 - C++ 
 - Java
 - TypeScript
+- JavaScript
 ### 📱 Web Development
 - **Core**: UI/UX design - HTML, CSS, JavaScript
 - **Backend development**: NodeJS - TypeScript, JavaScript
 ### ⚙️ Software Engineering
-- User Applications - Java, C++
-- Systems level programming - C++, Rust
+- **User Applications**: Core logic - Java, C++
+- **Systems Level**: Frontend compiler - C++, Rust
 ### 🛠️ Tools and Workflow
 - Git / GitHub
 - VSCode
