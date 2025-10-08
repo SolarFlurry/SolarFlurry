@@ -1,29 +1,30 @@
-# Hello!
-<h1 align="center">I'm Solarflurry, a hobbyist programmer</h1>
+# hello...
 
-## Skills
-### 🚀 Programming Languages
-- C++ 
-- Java
+programming languages i use:
+- C++
 - TypeScript
-- JavaScript
-### 📱 Web Development
-- **Core**: UI/UX design - HTML, CSS, JavaScript
-- **Backend development**: NodeJS - TypeScript, JavaScript
-### ⚙️ Software Engineering
-- **User Applications**: Core logic - Java, C++
-- **Systems Level**: Frontend compiler - C++, Rust
-### 🛠️ Tools and Workflow
-- Git / GitHub
-- VSCode
-## ⚽️ Hobbies
-I enjoy:
-- Programming 💻
-- Solving problems 📊
-- Drawing ✏️
-- Origami 📄
-- Cycling 🚲
+- Go
+- Rust
 
+what could i be doing right now...
+
+- working on a programming language
+- creating a game
+- minecraft redstone computer
+- making a discord bot
+- learning complex & quaternions
+
+```c++
+#include <iostream>
+
+int main () {
+  cout << "randnom c++ code lol";
+}
+```
+
+if you want to collaborate:
+- [Discord](https://discord.com/channels/@me)
+- [Scratch..?](https://scratch.mit.edu/users/SolarFlurry)
 
 <!---
 SolarFlurry/SolarFlurry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
