@@ -14,6 +14,9 @@ what could i be doing right now...
 - making a discord bot
 - learning complex & quaternions
 
+
+my favourite license is GPLv3, i use it in basically all projects
+
 ```c++
 #include <iostream>
 
