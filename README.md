@@ -24,8 +24,8 @@ const std = @import("std");
 
 pub fn main() {
   // dependency injection of a std.Io.Writer, this is a good practice
-  const stdout = std.fs.File.stdout().writer(&.{});
-  var writer = stdout.interface;
+  var stdout = std.fs.File.stdout().writer(&.{});
+  const writer = &stdout.interface;
 
   writer.print("radnom zig code lol\n");
   writer.print("also to whoever's reading this, please try zig, it's an amazing language not enough people know\n");
