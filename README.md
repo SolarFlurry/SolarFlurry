@@ -1,5 +1,8 @@
 # hello...
 
+nvim > vscode
+trust
+
 programming languages i like
 - Zig
 - C
