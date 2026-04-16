@@ -1,7 +1,6 @@
 # hello...
 
-nvim > vscode
-trust
+i use nvim btw
 
 programming languages i like
 - Zig
