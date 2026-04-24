@@ -24,13 +24,13 @@ my favourite license is GPLv3, i use it in basically all projects, sometimes MIT
 ```zig
 const std = @import("std");
 
-pub fn main() {
+pub fn main(init: std.process.Init) !void {
   // dependency injection of a std.Io.Writer, this is a good practice
-  var stdout = std.fs.File.stdout().writer(&.{});
+  var stdout = std.Io.File.stdout().writer(init.io, &.{});
   const writer = &stdout.interface;
 
-  writer.print("radnom zig code lol\n");
-  writer.print("also to whoever's reading this, please try zig, it's an amazing language not enough people know\n");
+  try writer.print("radnom zig code lol\n");
+  try writer.print("also to whoever's reading this, please try zig, it's an amazing language not enough people know\n");
 }
 ```
 
