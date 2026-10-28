@@ -2,6 +2,8 @@
 
 i use nvim btw
 
+you can view my dotfiles [here](https://github.com/SolarFlurry/dotfiles)
+
 programming languages i like
 - Zig
 - C
@@ -30,17 +32,14 @@ pub fn main(init: std.process.Init) !void {
   const writer = &stdout.interface;
 
   try writer.print("radnom zig code lol\n");
-  try writer.print("also to whoever's reading this, please try zig, it's an amazing language not enough people know\n");
+  try writer.print("hello, why are you even reading this? thanks for checking out my profile\n");
 }
 ```
 
-if only zig used `let` and `let mut` instead of `const` and `var`... thats why im making [this programming language](https://github.com/SolarFlurry/wyrm-lang/)!
-
-read [this](https://zig.guide)
-
-if you want to collaborate:
-- [Discord](https://discord.com/channels/@me)
-- [Scratch..?](https://scratch.mit.edu/users/SolarFlurry)
+more active projects:
+- [vacite scripting lang](https://github.com/SolarFlurry/vacite)!
+- [wyrm programming lang](https://github.com/SolarFlurry/wyrm-lang/)!
+- [fintui](https://github.com/fintui)!
 
 <!---
 SolarFlurry/SolarFlurry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
